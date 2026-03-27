@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /node_modules/
 
-Sitemap: https://your-domain.vercel.app/sitemap.xml
+Sitemap: https://ai-nav-beta-six.vercel.app/sitemap.xml
