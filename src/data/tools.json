@@ -54,6 +54,58 @@
       "icon": "🎯"
     },
     {
+      "id": 19,
+      "name": "Leonardo AI",
+      "category": "生图",
+      "url": "https://leonardo.ai",
+      "price": "免费（有限额）",
+      "tags": ["游戏素材", "概念设计", "每日免费"],
+      "hot": false,
+      "rating": 4.6,
+      "views": "5.2万",
+      "description": "每日免费生成次数，游戏概念设计神器",
+      "icon": "🧠"
+    },
+    {
+      "id": 20,
+      "name": "Ideogram",
+      "category": "生图",
+      "url": "https://ideogram.ai",
+      "price": "免费",
+      "tags": ["文字生成", "海报", "Logo"],
+      "hot": false,
+      "rating": 4.5,
+      "views": "3.8万",
+      "description": "擅长生成带文字的图像",
+      "icon": "💬"
+    },
+    {
+      "id": 21,
+      "name": "Adobe Firefly",
+      "category": "生图",
+      "url": "https://firefly.adobe.com",
+      "price": "付费",
+      "tags": ["商业设计", "PS集成", "版权安全"],
+      "hot": false,
+      "rating": 4.4,
+      "views": "4.5万",
+      "description": "AdobeAI生图，商用的版权安全",
+      "icon": "🔥"
+    },
+    {
+      "id": 22,
+      "name": "Recraft",
+      "category": "生图",
+      "url": "https://recraft.ai",
+      "price": "免费",
+      "tags": ["矢量图", "图标", "艺术画"],
+      "hot": false,
+      "rating": 4.3,
+      "views": "2.1万",
+      "description": "生成矢量图和图标",
+      "icon": "📐"
+    },
+    {
       "id": 5,
       "name": "可灵AI",
       "category": "视频",
@@ -106,6 +158,45 @@
       "icon": "🏛️"
     },
     {
+      "id": 23,
+      "name": "Sora",
+      "category": "视频",
+      "url": "https://sora.openai.com",
+      "price": "付费",
+      "tags": ["文生视频", "OpenAI", "高画质"],
+      "hot": true,
+      "rating": 4.9,
+      "views": "15.6万",
+      "description": "OpenAI视频生成模型",
+      "icon": "🚀"
+    },
+    {
+      "id": 24,
+      "name": "海螺AI",
+      "category": "视频",
+      "url": "https://hailuoai.com",
+      "price": "免费",
+      "tags": ["短视频", "国内", "免费"],
+      "hot": false,
+      "rating": 4.2,
+      "views": "1.8万",
+      "description": "MiniMax出品的AI视频工具",
+      "icon": "🐚"
+    },
+    {
+      "id": 25,
+      "name": "Opus",
+      "category": "视频",
+      "url": "https://opus.ai",
+      "price": "免费",
+      "tags": ["视频翻译", "AI视频"],
+      "hot": false,
+      "rating": 4.3,
+      "views": "2.5万",
+      "description": "AI视频本地化翻译",
+      "icon": "🌐"
+    },
+    {
       "id": 9,
       "name": "ElevenLabs",
       "category": "配音",
@@ -143,6 +234,32 @@
       "views": "18.5万",
       "description": "字节跳动出品，视频配音剪辑一体",
       "icon": "✂️"
+    },
+    {
+      "id": 26,
+      "name": "Azure TTS",
+      "category": "配音",
+      "url": "https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech",
+      "price": "免费（有限额）",
+      "tags": ["多语言", "语音合成", "微软"],
+      "hot": false,
+      "rating": 4.5,
+      "views": "4.1万",
+      "description": "微软Azure语音合成，语音自然",
+      "icon": "☁️"
+    },
+    {
+      "id": 27,
+      "name": "Murf AI",
+      "category": "配音",
+      "url": "https://murf.ai",
+      "price": "付费（免费试用）",
+      "tags": ["商业配音", "多音色"],
+      "hot": false,
+      "rating": 4.4,
+      "views": "2.9万",
+      "description": "专业商业配音AI",
+      "icon": "🎚️"
     },
     {
       "id": 12,
@@ -197,6 +314,58 @@
       "icon": "🌙"
     },
     {
+      "id": 28,
+      "name": "Perplexity",
+      "category": "写作",
+      "url": "https://perplexity.ai",
+      "price": "免费/付费",
+      "tags": ["AI搜索", "联网", "引用来源"],
+      "hot": true,
+      "rating": 4.7,
+      "views": "7.2万",
+      "description": "AI搜索引擎，实时联网引源",
+      "icon": "🔍"
+    },
+    {
+      "id": 29,
+      "name": "Gemini",
+      "category": "写作",
+      "url": "https://gemini.google.com",
+      "price": "免费",
+      "tags": ["Google", "多模态", "免费"],
+      "hot": false,
+      "rating": 4.5,
+      "views": "5.8万",
+      "description": "Google大模型，多模态能力强",
+      "icon": "🌟"
+    },
+    {
+      "id": 30,
+      "name": "文心一言",
+      "category": "写作",
+      "url": "https://yiyan.baidu.com",
+      "price": "免费",
+      "tags": ["中文", "百度", "免费"],
+      "hot": false,
+      "rating": 4.2,
+      "views": "6.5万",
+      "description": "百度大模型，中文场景优化",
+      "icon": "🦢"
+    },
+    {
+      "id": 31,
+      "name": "讯飞星火",
+      "category": "写作",
+      "url": "https://xinghuo.xfyun.cn",
+      "price": "免费",
+      "tags": ["中文", "语音", "办公"],
+      "hot": false,
+      "rating": 4.3,
+      "views": "3.2万",
+      "description": "科大讯飞大模型，语音能力突出",
+      "icon": "🔥"
+    },
+    {
       "id": 16,
       "name": "Notion AI",
       "category": "办公",
@@ -208,6 +377,45 @@
       "views": "6.3万",
       "description": "笔记+AI，写文档做总结神器",
       "icon": "📓"
+    },
+    {
+      "id": 32,
+      "name": "WPS AI",
+      "category": "办公",
+      "url": "https://www.wps.cn",
+      "price": "免费",
+      "tags": ["文档", "PPT", "国内"],
+      "hot": false,
+      "rating": 4.4,
+      "views": "5.1万",
+      "description": "WPS文档AI处理",
+      "icon": "📊"
+    },
+    {
+      "id": 33,
+      "name": "飞书妙记",
+      "category": "办公",
+      "url": "https://www.feishu.cn",
+      "price": "免费",
+      "tags": ["会议纪要", "语音转文字", "国内"],
+      "hot": false,
+      "rating": 4.5,
+      "views": "4.3万",
+      "description": "飞书会议语音转文字加总结",
+      "icon": "📋"
+    },
+    {
+      "id": 34,
+      "name": "腾讯文档AI",
+      "category": "办公",
+      "url": "https://docs.qq.com",
+      "price": "免费",
+      "tags": ["文档", "协作", "国内"],
+      "hot": false,
+      "rating": 4.3,
+      "views": "3.6万",
+      "description": "腾讯文档AI智能处理",
+      "icon": "📑"
     },
     {
       "id": 17,
@@ -234,6 +442,45 @@
       "views": "5.6万",
       "description": "AI驱动的代码编辑器",
       "icon": "⌨️"
+    },
+    {
+      "id": 35,
+      "name": "CodeWhisperer",
+      "category": "开发",
+      "url": "https://aws.amazon.com/codewhisperer",
+      "price": "免费",
+      "tags": ["编程", "AWS", "免费"],
+      "hot": false,
+      "rating": 4.4,
+      "views": "3.1万",
+      "description": "亚马逊AI代码助手，免费使用",
+      "icon": "⚡"
+    },
+    {
+      "id": 36,
+      "name": "Tabnine",
+      "category": "开发",
+      "url": "https://tabnine.com",
+      "price": "免费/付费",
+      "tags": ["代码补全", "多语言"],
+      "hot": false,
+      "rating": 4.5,
+      "views": "2.8万",
+      "description": "AI代码补全，支持多语言",
+      "icon": "🐱"
+    },
+    {
+      "id": 37,
+      "name": "Replit AI",
+      "category": "开发",
+      "url": "https://replit.com",
+      "price": "免费/付费",
+      "tags": ["在线编程", "AI对话", "云IDE"],
+      "hot": false,
+      "rating": 4.4,
+      "views": "2.5万",
+      "description": "在线编程+AI辅助",
+      "icon": "🖥️"
     }
   ]
 }
